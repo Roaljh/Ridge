@@ -1,0 +1,16 @@
+Feature_1,Feature_2,Correlation,Absolute_Correlation
+X3 distance to the nearest MRT station,X6 longitude,-0.8063167695693654,0.8063167695693654
+X3 distance to the nearest MRT station,X4 number of convenience stores,-0.6025191447226251,0.6025191447226251
+X3 distance to the nearest MRT station,X5 latitude,-0.5910665729874878,0.5910665729874878
+X4 number of convenience stores,X6 longitude,0.4490990073533303,0.4490990073533303
+X4 number of convenience stores,X5 latitude,0.4441433056524694,0.4441433056524694
+X5 latitude,X6 longitude,0.4129239447594798,0.4129239447594798
+X2 house age,X5 latitude,0.054419901960111754,0.054419901960111754
+X2 house age,X4 number of convenience stores,0.04959251292396381,0.04959251292396381
+X1 transaction year,X2 house age,0.04917128143095797,0.04917128143095797
+X2 house age,X6 longitude,-0.048520053385389686,0.048520053385389686
+X2 house age,X3 distance to the nearest MRT station,0.025622047362740975,0.025622047362740975
+X1 transaction year,X3 distance to the nearest MRT station,0.016518583189474655,0.016518583189474655
+X1 transaction year,X6 longitude,0.013176973394638749,0.013176973394638749
+X1 transaction year,X5 latitude,0.008118342687262154,0.008118342687262154
+X1 transaction year,X4 number of convenience stores,-0.005585732697292093,0.005585732697292093
