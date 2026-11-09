@@ -1,5 +1,4 @@
 Feature,Q1,Q3,IQR,Lower Boundary,Upper Boundary,Outlier Count
-X1 transaction year,2012.0,2013.0,1.0,2010.5,2014.5,0
 X2 house age,9.025,28.15,19.125,-19.6625,56.8375,0
 X3 distance to the nearest MRT station,289.3248,1454.279,1164.9542000000001,-1458.1065000000003,3201.7103,37
 X4 number of convenience stores,1.0,6.0,5.0,-6.5,13.5,0

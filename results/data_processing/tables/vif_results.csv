@@ -1,7 +1,18 @@
 Feature,VIF
-X1 transaction year,1.005501525183923
-X2 house age,1.0166517374735191
-X3 distance to the nearest MRT station,4.2937751421934935
-X4 number of convenience stores,1.613345676746514
-X5 latitude,1.5999373067140583
-X6 longitude,2.931216117028332
+X1 transaction month_December,1000799917193443.5
+X1 transaction month_November,1000799917193443.5
+X1 transaction year_2013,1000799917193443.5
+X1 transaction month_September,1000799917193443.5
+X1 transaction month_October,1000799917193443.5
+X3 distance to the nearest MRT station,4.528575351909234
+X6 longitude,3.04390068546109
+X1 transaction month_June,2.4417504574957203
+X1 transaction month_July,2.26542171790336
+X1 transaction month_February,2.1860063972432098
+X1 transaction month_January,1.8455252108612858
+X1 transaction month_May,1.7814787276162498
+X1 transaction month_March,1.6786791183872163
+X4 number of convenience stores,1.6567148339883426
+X5 latitude,1.6453977607113786
+X1 transaction month_August,1.6449836863602145
+X2 house age,1.054107283153804
