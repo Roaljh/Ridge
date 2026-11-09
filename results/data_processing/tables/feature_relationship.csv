@@ -1,0 +1,7 @@
+Feature,Pearson Correlation
+X1 transaction year,0.08154451854825472
+X2 house age,-0.21056704627721679
+X3 distance to the nearest MRT station,-0.6736128553689182
+X4 number of convenience stores,0.5710049111111483
+X5 latitude,0.5463066525036047
+X6 longitude,0.5232865070287561
