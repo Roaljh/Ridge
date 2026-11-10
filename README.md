@@ -103,10 +103,12 @@ The project uses:
 
 ## Contributors
 
-- Nitisha Choudhary
-- Mukesh Kumar
-- Adyasha Parida
-- Rohit Nandha
+| Name              | Course                       | Registration Number |
+| ----------------- | ---------------------------- | ------------------- |
+| Nitisha Choudhary | M.Tech Data Science          | 26-27-26            |
+| Mukesh Kumar      | M.Tech Data Science          | 26-27-27            |
+| Adyasha Parida    | M.Tech Data Science          | 26-27-28            |
+| Rohit Nandha      | M.Tech Modeling & Simulation | 26-14-09            |
 
 ## Project Status
 
