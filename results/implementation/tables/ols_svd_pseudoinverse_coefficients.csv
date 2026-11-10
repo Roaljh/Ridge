@@ -1,0 +1,18 @@
+Feature,Pseudoinverse Coefficient
+Intercept,-4297.651397751711
+X2 house age,-0.27278902725673176
+X3 distance to the nearest MRT station,-0.004482489543622992
+X4 number of convenience stores,1.1537515662509863
+X5 latitude,233.0044578051495
+X6 longitude,-12.153850477315837
+X1 transaction month_August,2.835503665750655
+X1 transaction month_December,-3.014804763913619
+X1 transaction month_February,0.7527649321590546
+X1 transaction month_January,-0.8851035008691142
+X1 transaction month_July,3.495498154871261
+X1 transaction month_June,-1.5516536289676597
+X1 transaction month_March,-0.47056086703070854
+X1 transaction month_May,2.1628677666739025
+X1 transaction month_November,-1.4412372860349223
+X1 transaction month_October,-2.754717354282017
+X1 transaction month_September,-1.6335083918229942

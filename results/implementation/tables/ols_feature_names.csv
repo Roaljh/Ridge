@@ -1,0 +1,19 @@
+Feature
+Intercept
+X2 house age
+X3 distance to the nearest MRT station
+X4 number of convenience stores
+X5 latitude
+X6 longitude
+X1 transaction year_2013
+X1 transaction month_August
+X1 transaction month_December
+X1 transaction month_February
+X1 transaction month_January
+X1 transaction month_July
+X1 transaction month_June
+X1 transaction month_March
+X1 transaction month_May
+X1 transaction month_November
+X1 transaction month_October
+X1 transaction month_September

@@ -1,0 +1,11 @@
+Metric,Value
+Number of Observations,414.0
+Number of Predictors Including Intercept,18.0
+Matrix Rank,17.0
+Rank Deficiency,1.0
+Condition Number X,9.494350793774703e+18
+Condition Number XtX,2.85582885651266e+20
+Smallest Singular Value,3.5671443371190025e-15
+Largest Singular Value,33867.71966863474
+Normal Equation Residual Norm,1.1862897803484008e-07
+Coefficient Difference from lstsq,13250.287942265053

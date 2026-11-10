@@ -1,0 +1,21 @@
+Diagnostic,Value
+Number of observations,414.0
+Number of design matrix columns,17.0
+Matrix rank,17.0
+Rank deficiency,0.0
+Condition number of X,23840107.52927059
+Condition number of X.T @ X,568346163503763.0
+Largest singular value,33867.71837097972
+Smallest singular value,0.0014206193629536848
+Numerical tolerance,3.1133396761941165e-09
+Reconstruction error,1.698658012739979e-11
+U orthogonality error,3.954998347495161e-15
+V orthogonality error,5.289968096642461e-15
+Residual norm,176.17841977921483
+Relative residual,0.21465161197604896
+Least-squares optimality error,3.864978991226984e-06
+Pseudoinverse coefficient difference,7.277047134828893e-12
+Pseudoinverse prediction difference,1.5779405672818604e-10
+NumPy coefficient difference,1.5473367279738584e-11
+NumPy prediction difference,5.355866101606462e-11
+NumPy pseudoinverse difference,7.276001993704128e-12

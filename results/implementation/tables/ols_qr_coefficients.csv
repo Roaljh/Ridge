@@ -1,0 +1,18 @@
+Feature,Coefficient
+Intercept,-4297.6513977515415
+X2 house age,-0.27278902725659077
+X3 distance to the nearest MRT station,-0.004482489543619571
+X4 number of convenience stores,1.1537515662509665
+X5 latitude,233.0044578051497
+X6 longitude,-12.15385047731736
+X1 transaction month_August,2.835503665750664
+X1 transaction month_December,-3.0148047639136024
+X1 transaction month_February,0.7527649321590809
+X1 transaction month_January,-0.8851035008690145
+X1 transaction month_July,3.495498154871267
+X1 transaction month_June,-1.5516536289676677
+X1 transaction month_March,-0.47056086703074884
+X1 transaction month_May,2.162867766673885
+X1 transaction month_November,-1.441237286035051
+X1 transaction month_October,-2.7547173542820507
+X1 transaction month_September,-1.6335083918228634
