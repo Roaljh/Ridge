@@ -1,0 +1,18 @@
+Feature,Ridge_Coefficient
+Intercept,37.9801932367156
+X2 house age,-2.842975926229611
+X3 distance to the nearest MRT station,-4.587994054962614
+X4 number of convenience stores,3.3354637524646296
+X5 latitude,2.90560144562005
+X6 longitude,0.6324082509982873
+X1 transaction month_August,0.559130733342771
+X1 transaction month_December,-0.8058864037011442
+X1 transaction month_February,0.25560160302106677
+X1 transaction month_January,-0.3265875654729223
+X1 transaction month_July,0.9818783420763391
+X1 transaction month_June,-0.47507752413524307
+X1 transaction month_March,-0.08726383092733667
+X1 transaction month_May,0.5135722709726496
+X1 transaction month_November,-0.3242355368813992
+X1 transaction month_October,-0.6366528372401801
+X1 transaction month_September,-0.35258647112147656

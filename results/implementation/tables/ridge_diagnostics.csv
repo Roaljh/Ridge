@@ -1,0 +1,8 @@
+Diagnostic,Value
+Lambda,1.0
+Residual Norm,176.1792390711239
+Relative Residual,0.2146526101818972
+Coefficient L2 Norm (excluding intercept),8.049095310369129
+Condition Number of Design Matrix,5.7495221948088355
+Condition Number of Ridge System,32.157588708209296
+Ridge Optimality Error,7.989140980081925e-12
