@@ -45,6 +45,17 @@ Ridge/
 └── .git/
 ```
 
+## Get the Project
+
+Install [Git](https://git-scm.com/downloads) if it is not already installed. Then open a terminal (Command Prompt or PowerShell on Windows, or Terminal on macOS/Linux) and run:
+
+```bash
+git clone https://github.com/Roaljh/Ridge.git
+cd Ridge
+```
+
+This downloads the project into a new `Ridge` folder and moves the terminal into it. If the `git` command is not recognized, install Git and reopen the terminal before trying again.
+
 ## Environment Setup
 
 Create a Python environment and install dependencies:
